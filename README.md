@@ -39,7 +39,7 @@ Este es un template básico de catálogo de productos desarrollado con **HTML, C
 ## Instalación y Uso
 1. Clona el repositorio o descarga los archivos.
    ```bash
-   git clone https://github.com/tu-usuario/catalogo-template.git
+   git clone https://github.com/hdtoledo/template-catalogo.git
    ```
 2. Abre el archivo `index.html` en un navegador web.
 3. Personaliza el contenido y los estilos según tus necesidades.
